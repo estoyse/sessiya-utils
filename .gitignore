@@ -1,0 +1,8 @@
+node_modules
+older
+.env
+*.json
+!package.json
+!package-lock.json
+!questions.json
+ai-answers.txt

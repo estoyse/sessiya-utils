@@ -1,0 +1,20 @@
+{
+  "name": "sessiya",
+  "version": "1.0.0",
+  "description": "A tool for processing and AI-calculating question sessions.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "sessiya": "bin/sessiya.js"
+  },
+  "scripts": {
+    "test": "node older/legacy_utility/testParse.js",
+    "sessiya": "node bin/sessiya.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.33.0",
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.5",
+    "xlsx": "^0.18.5"
+  }
+}

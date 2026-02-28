@@ -1,0 +1,1492 @@
+Look! It’s Francis! I ... him for ages.
+
+
+don't see
+
+didn't see
+#haven't seen
+
+wasn't seeing
+
+I saw him last week, but I ... since then.
+
+
+didn't see him
+#haven't seen him
+
+don't see him
+
+hadn't seen him
+
+The printing press ... in the fifteenth century.
+
+
+invented
+#was invented
+
+is invented
+
+has been invented
+
+May I go out and play in the street? – You ... . It’s dangerous to play in the street.
+
+
+can
+
+needn't
+#mustn't
+
+don't have to
+
+I spend ... time on my work than my friend.
+
+#less
+
+fewer
+
+least
+
+the less
+
+An average family has ... children now than before the war.
+
+
+little
+
+less
+#fewer
+
+few
+
+Who is going ... at the meeting?
+
+
+speak
+#to speak
+
+speaking
+
+speaks
+
+He ... me the story of his life.
+
+
+said
+
+spoke
+#told
+
+talked
+
+Please, tell your son ... .
+
+#not to smoke
+
+to not smoke
+
+don't smoke
+
+no smoking
+
+I asked him where he ... .
+
+
+lives
+
+does live
+#lived
+
+has lived
+
+She told me ... tomorrow as she wouldn’t be there.
+
+
+don't come
+#not to come
+
+to not come
+
+didn't come
+
+My friend was so busy yesterday, that he ... to the country with me.
+
+
+can't go
+#couldn't go
+
+hasn't gone
+
+wouldn't go
+
+Moscow is ... city in Russia.
+
+
+the most big
+
+bigger
+#the biggest
+
+as big as
+
+No news ... good news.
+
+#is
+
+are
+
+be
+
+were
+
+Where did you buy this watch? The watch ... very good.
+
+#is
+
+are
+
+was
+
+were
+
+Can you hear ... ?
+
+
+anything
+
+something
+
+nothing
+
+everything
+
+Why isn’t the new model ... reliable as the old one?
+
+#as
+
+so
+
+more
+
+than
+
+Why does he look so ... ?
+
+
+sadly
+
+happiness
+#sad
+
+badly
+
+Money ... for buying and selling goods.
+
+
+use
+
+are used
+#is used
+
+using
+
+She used ... very beautiful when she was young.
+
+
+be
+#to be
+
+being
+
+been
+
+
+Hundreds of houses and ... buildings have been destroyed by the tropical storm.
+
+
+other
+#others
+
+another
+
+the other
+
+I’m sorry, I don’t know ... about it.
+
+
+nothing
+#anything
+
+something
+
+everything
+
+Mr. Brown and Mr. Smith don’t speak to ... . They had an argument yesterday.
+
+#each other
+
+themselves
+
+them
+
+another
+
+They will bring books if they come, ...?
+
+
+will they
+#won't they
+
+don't they
+
+didn't they
+
+Let’s go home. There’s ... interesting here.
+
+
+anything
+
+something
+#nothing
+
+everything
+
+Have you ever been ... England?
+
+
+in
+
+at
+#to
+
+into
+
+Shall I answer ... the letters now?
+
+
+to
+
+for
+#(no preposition)
+
+on
+
+Did you go ... yesterday?
+
+
+everywhere
+#anywhere
+
+somewhere
+
+nowhere
+
+Do you often travel ... business?
+
+#on
+
+in
+
+for
+
+by
+
+The sun was slowly disappearing ... the mountains.
+
+
+through
+
+over
+#behind
+
+for
+
+She plays the piano ... than her brother.
+
+
+gooder
+#better
+
+more well
+
+the best
+
+Would you like ... coffee?
+
+
+any
+#some
+
+a
+
+many
+
+My room is ... than yours.
+
+
+more small
+#smaller
+
+the smallest
+
+as small
+
+It was ... interesting film I’ve ever seen.
+
+
+more
+
+most
+#the most
+
+as
+
+Do you know ... works in that office?
+
+#who
+
+which
+
+what
+
+whose
+
+He’s got ... money than I have.
+
+
+many
+
+few
+#less
+
+least
+
+You must go to the dentist. You’ve got ... toothache.
+
+#a
+
+an
+
+the
+
+(no article)
+
+They’ve got two children. One is a boy, and ... is a girl.
+
+
+other
+#the other
+
+another
+
+others
+
+The train to London leaves ... platform five.
+
+
+in
+
+on
+#from
+
+at
+
+I couldn’t answer the phone because I ... a shower.
+
+
+took
+#was taking
+
+had taken
+
+am taking
+
+The dinner smells ... .
+
+#good
+
+well
+
+nicely
+
+badly
+
+I’ve got a brother. ... name is Tom.
+
+
+Her
+#His
+
+My
+
+Its
+
+I’ll phone you when I ... home.
+
+#get
+
+will get
+
+got
+
+am getting
+
+I was watching TV when he ... in.
+
+
+comes
+#came
+
+was coming
+
+has come
+
+I’ve lived in this house ... I was a child.
+
+
+for
+#since
+
+from
+
+ago
+
+There’s a man at the door who wants to see ... .
+
+
+you
+
+your
+
+yours
+
+yourself
+
+I’m tired. I’d rather ... out this evening.
+
+
+not to go
+#not go
+
+don't go
+
+not going
+
+The weather was nice ... we went for a walk.
+
+#so
+
+because
+
+but
+
+although
+
+The bus came ... we were waiting.
+
+
+during
+#while
+
+for
+
+that
+
+He asked me where ... from.
+
+
+did I come
+#I came
+
+do I come
+
+I am coming
+
+In this season there is only one way of getting there – ... plane.
+
+#by
+
+on
+
+in
+
+with
+
+Children ... go to bed early.
+
+#should
+
+ought
+
+must to
+
+need
+
+You ... tell her about it (advice).
+
+#should
+
+would
+
+will
+
+shall
+
+He hasn’t done the work ... .
+
+
+already
+#yet
+
+still
+
+just
+
+I ... the house in ten minutes.
+
+#am leaving
+
+leave
+
+left
+
+have left
+
+The girl ... usually works at this desk is on holiday now.
+
+#who
+
+which
+
+what
+
+whose
+
+The letter ... has just arrived is very important.
+
+
+who
+#which
+
+what
+
+whom
+
+What’s the ... way to the station?
+
+
+fast
+
+faster
+#fastest
+
+most fast
+
+Do you feel ... today?
+
+#better
+
+more better
+
+the best
+
+gooder
+
+Which design is ...?
+
+
+good
+
+the goodest
+#the best
+
+better
+
+
+Let’s go by air. It’s ... .
+
+
+more quick
+#quicker
+
+the quickest
+
+quickly
+
+The problem is ... than you think.
+
+
+more serious
+#more serious** (Note: "more serious" is the correct standard form)
+
+seriouser
+
+most serious
+
+We ... tennis from five till seven yesterday.
+
+
+played
+#were playing
+
+have played
+
+play
+
+How long ... it take you to do this work?
+
+#did
+
+was
+
+has
+
+is
+
+Will you come back soon? – ... 10 minutes.
+
+#In
+
+After
+
+For
+
+Through
+
+We didn’t find ... there.
+
+
+somebody
+#anybody
+
+nobody
+
+no one
+
+... of us will help you to adjust the machine.
+
+
+Some
+#One
+
+Someone
+
+Every
+
+It never ... here.
+
+#snows
+
+snow
+
+is snowing
+
+snowing
+
+All the documents always ... in order.
+
+
+is
+#are
+
+was
+
+been
+
+How ... English words do you know?
+
+
+much
+#many
+
+few
+
+little
+
+Don’t worry. We have ... time before the train comes in.
+
+#little
+
+a little
+
+few
+
+a few
+
+Have you ever visited other countries? – Yes, I ... to Italy and France.
+
+
+was
+#have been
+
+had been
+
+went
+
+We ... to Paris last night.
+
+#went
+
+have gone
+
+go
+
+were going
+
+I ... my homework when the phone rang.
+
+
+did
+#was doing
+
+have done
+
+done
+
+We ... to the party last night.
+
+#went
+
+go
+
+have gone
+
+were going
+
+I ... my homework when my friend came.
+
+
+did
+#was doing
+
+had done
+
+am doing
+
+They ... in the park when we saw them.
+
+
+walked
+#were walking
+
+have walked
+
+walk
+
+I ... him about it today.
+
+#have told
+
+told
+
+tell
+
+am telling
+
+She ... her keys just now.
+
+#has lost
+
+lost
+
+loses
+
+is losing
+
+He ... to the gym this week.
+
+#has been
+
+went
+
+goes
+
+was going
+
+
+She ... to the supermarket to buy some milk.
+
+
+goes
+
+go
+#has gone
+
+going
+
+We ... at 7 p.m., so we were all late.
+
+
+arrive
+#arrived
+
+have arrived
+
+arriving
+
+She ... to see her grandmother every Sunday.
+
+#goes
+
+go
+
+is going
+
+has gone
+
+I have a lot of ____ to do.
+
+#work
+
+works
+
+working
+
+worked
+
+He plays the ____ every day.
+
+
+pianoes
+#piano
+
+pianing
+
+pianos
+
+We had a great ____ last weekend.
+
+
+times
+#time
+
+timed
+
+timing
+
+She ____ to the store every morning.
+
+#walks
+
+walk
+
+is walking
+
+has walked
+
+Can you ____ me a pencil?
+
+#give
+
+giving
+
+given
+
+gave
+
+We are ____ to the cinema later.
+
+#going
+
+go
+
+gone
+
+goes
+
+My birthday is in ____.
+
+
+the June
+#June
+
+a June
+
+June's
+
+She ____ a new dress for the party recently.
+
+#has bought
+
+buys
+
+bought
+
+buy
+
+I ____ the news yesterday.
+
+
+hear
+#heard
+
+have heard
+
+hearing
+
+The children are ____ in the park.
+
+#playing
+
+play
+
+played
+
+plays
+
+She _______ to the store when it started raining.
+
+
+walks
+#was walking
+
+has walked
+
+walk
+
+We _______ for hours.
+
+
+wait
+#waited
+
+waiting
+
+waits
+
+I _______ him about the situation last night.
+
+#told
+
+tell
+
+telling
+
+tells
+
+He _______ at the moment.
+
+#is sleeping
+
+sleeps
+
+slept
+
+sleep
+
+They _______ dinner when I called them.
+
+
+ate
+#were eating
+
+have eaten
+
+eat
+
+I _______ to the library later.
+
+#am going
+
+go
+
+gone
+
+goes
+
+She _______ his name.
+
+#remembers
+
+remember
+
+is remembering
+
+remembered
+
+
+
+I _______ him two days ago.
+
+have seen
+#saw
+
+see
+
+was seeing
+
+They _______ never been to London.
+#have** *
+B) had
+
+were
+
+are
+
+I _______ never seen a movie like that.
+#have
+
+am
+
+was
+
+did
+
+We _______ to the cinema last night.
+#went
+
+have gone
+
+go
+
+were going
+
+She _______ in London for five years.
+
+lives
+
+lived
+#has lived**
+is living
+
+I _______ to the store when I saw him.
+
+walked
+#was walking
+
+have walked
+
+walk
+
+They _______ their homework when the teacher entered.
+
+did
+
+#were doing
+
+have done
+
+do
+
+We _______ our exams already.**
+#have finished**
+
+finish
+
+
+finished
+
+are finishing
+
+I _______ him two days ago.**
+
+have met
+
+#met**
+
+meet
+
+was meeting
+
+She _______ a letter when I knocked on the door.**
+
+wrote
+
+#was writing**
+
+has written
+
+writes
+
+I _______ a book now.**
+#am reading**
+
+read
+
+have read
+
+reads
+
+He _______ to the gym every morning.**
+#goes**
+
+go
+
+
+is going
+
+has gone
+
+I _______ my keys. Can you help me find them?**
+#have lost**
+
+lost
+
+lose
+
+am losing
+
+He _______ here since 9 o’clock.**
+
+is
+#has been**
+
+was
+
+be
+
+I _______ the book already.**
+#have read**
+
+read
+
+am reading
+
+will read
+
+She _______ in this house for 10 years.**
+
+lives
+
+#has lived**
+
+is living
+
+lived
+
+They _______ us last night.**
+#visited
+
+have visited
+
+visit
+
+were visiting
+
+I _______ a great movie last weekend.**
+#saw**
+
+have seen
+
+see
+
+was seeing
+
+She _______ a book now.**
+#is reading**
+
+reads
+
+read
+
+has read
+
+We _______ to the park after lunch yesterday.**
+#went**
+
+have gone
+
+
+go
+
+were going
+
+
+They _______ already.
+
+
+left
+#have left
+
+leave
+
+are leaving
+
+I _______ my homework at the moment.
+
+#am doing
+
+do
+
+have done
+
+did
+
+She _______ here for two hours.
+
+
+is
+#has been
+
+was
+
+be
+
+We _______ to the cinema next weekend.
+
+#are going
+
+went
+
+go
+
+have gone
+
+I _______ you last night.
+
+#called
+
+have called
+
+call
+
+was calling
+
+They _______ the new project last month.
+
+#started
+
+have started
+
+start
+
+were starting
+
+He _______ to his grandmother every Sunday.
+
+#talks
+
+talk
+
+is talking
+
+has talked
+
+I _______ to the shop when I saw her.
+
+
+walked
+#was walking
+
+have walked
+
+walk
+
+We _______ the project already.
+
+#have finished
+
+finish
+
+finished
+
+are finishing
+
+She _______ him a message yesterday.
+
+#sent
+
+has sent
+
+sends
+
+was sending
+
+I _______ the book already.
+
+#have read
+
+read
+
+am reading
+
+reads
+
+He _______ his homework when the bell rang.
+
+
+did
+#was doing
+
+has done
+
+does
+
+She _______ a beautiful dress to the party last week.
+
+#wore
+
+has worn
+
+wears
+
+was wearing
+
+I was really ___ after running the marathon.
+
+#tired** (describes a feeling)
+
+tiring (describes a cause)
+
+tire
+
+tiredly
+
+That movie was so ___. I almost fell asleep.
+
+
+bored
+#boring
+
+bore
+
+boringly
+
+She felt very ___ when nobody called her.
+
+#lonely
+
+alone
+
+lonesomely
+
+lone
+
+The book was really ___. I couldn’t put it down.
+
+
+interested
+#interesting
+
+interest
+
+interestingly
+
+I'm so ___ about my holiday next week!
+
+#excited
+
+exciting
+
+excite
+
+excitedly
+
+He looked ___ after losing the game.
+
+#disappointed
+
+disappointing
+
+disappoint
+
+disappointedly
+
+This news is quite ___.
+
+
+shocked
+#shocking
+
+shock
+
+shockingly
+
+I’m not ___ in science fiction movies.
+
+#interested
+
+interesting
+
+interest
+
+interestingly
+
+Her speech was really ___.
+
+
+inspired
+#inspiring
+
+inspire
+
+inspiration
+
+We were all ___ by the sad story.
+
+#moved
+
+moving
+
+move
+
+moves
+
+It was an ___ moment when he fell off the stage.
+
+
+embarrassed
+#embarrassing
+
+embarrass
+
+embarrassedly
+
+She looked ___ after she made a mistake.
+
+#embarrassed
+
+embarrassing
+
+embarrass
+
+embarrassedly
+
+I think this documentary is really ___.
+
+
+fascinated
+#fascinating
+
+fascinate
+
+fascinates
+
+My friend was ___ when she won the prize.
+
+#thrilled
+
+thrilling
+
+thrill
+
+thrills
+
+The horror movie was too ___ for me.
+
+
+frightened
+#frightening
+
+frighten
+
+fright
+
+I was ___ to speak in public.
+
+#terrified
+
+terrifying
+
+terrify
+
+terrifies
+
+The explanation was ___ and difficult to follow.
+
+
+confused
+#confusing
+
+confuse
+
+confusedly
