@@ -1,8 +1,9 @@
 node_modules
 older
+files
 .env
 *.json
 !package.json
 !package-lock.json
 !questions.json
-ai-answers.txt
+!files/input.txt

@@ -3,6 +3,7 @@ import { Command } from "commander";
 import { parseTextQuestions } from "../src/parsers/text.js";
 import { parseExcelQuestions } from "../src/parsers/excel.js";
 import { processQuestions } from "../src/ai/checker.js";
+import { translate } from "../src/ai/translator.js";
 import { exportToText } from "../src/formatters/text.js";
 import "dotenv/config";
 
@@ -18,7 +19,11 @@ program
   .command("parse")
   .description("Parse questions from a plain text file")
   .argument("<input>", "Input text file (input.txt)")
-  .option("-o, --output <output>", "Output JSON file path", "questions.json")
+  .option(
+    "-o, --output <output>",
+    "Output JSON file path",
+    "./files/questions.json",
+  )
   .action((input, options) => {
     parseTextQuestions(input, options.output);
   });
@@ -48,6 +53,25 @@ program
       process.exit(1);
     }
     await processQuestions(input, options.output, apiKey);
+  });
+
+program
+  .command("translate")
+  .description("Translate questions using Gemini AI")
+  .argument("<input>", "Input txt questions file")
+  .option(
+    "-o, --output <output>",
+    "Output text file",
+    "./files/ai-translation.txt",
+  )
+  .option("-k, --key <key>", "Gemini API Key (instead of .env)")
+  .action(async (input, options) => {
+    const apiKey = options.key || process.env.GOOGLE_GENAI_API_KEY;
+    if (!apiKey) {
+      console.error("❌ Missing Gemini API Key. Provide it via .env or --key.");
+      process.exit(1);
+    }
+    await translate(input, options.output, apiKey);
   });
 
 // EXPORT COMMAND

@@ -33,44 +33,51 @@ async function safeGenerate(client, prompt, retries = 5) {
 }
 
 async function checkBatch(client, batch) {
-  const formatted = batch.map((q) => ({
-    number: q.questionNumber,
-    question: q.question,
-    options: q.options,
-  }));
-
   const prompt = `
-You will receive multiple choice questions.
-Return the answer ONLY in this exact text format:
-<number>. <CorrectOptionLetter>
+You will receive multiple choice questions uzbek. you should translate them into english while preserving the structure. answer only final output file. no code no markdown elements just plain text in the format like:
 
-Example:
-1. B
-2. A
+"1. Mumtoz yoki ma'muriy menejment namoyondalarini aniqlang?
+A)Fayol, M. Veber va boshq.
+B)Teylor, G. Emerson va boshq.
+C)Amir Temur va boshq.
+D)Teylor va boshq.
+To'g'ri javob: A"
 
 Do NOT output JSON.
 Do NOT include explanations.
 Do NOT repeat the questions.
+Answer with preserving input format
 
 Here are the questions:
-${JSON.stringify(formatted, null, 2)}
+${batch.join("\n")}
   `;
 
   return await safeGenerate(client, prompt);
 }
 
-export async function processQuestions(inputPath, outputPath, apiKey) {
+export async function translate(inputPath, outputPath, apiKey) {
   if (!apiKey) {
     throw new Error("Missing Gemini API Key");
   }
 
   const client = new GoogleGenAI({ apiKey });
-  const questions = JSON.parse(fs.readFileSync(inputPath, "utf8"));
+  const data = fs.readFileSync(inputPath, "utf8");
+  const cleaned = data
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line !== "");
+
+  const questionArray = [];
+
+  for (let i = 0; i < cleaned.length; i += 6) {
+    let combined = `${cleaned[i]}\n${cleaned[i + 1]}\n${cleaned[i + 2]}\n${cleaned[i + 3]}\n${cleaned[i + 4]}\n${cleaned[i + 5]}`;
+    questionArray.push(combined);
+  }
 
   let results = "";
   const batches = [];
-  for (let i = 0; i < questions.length; i += BATCH_SIZE) {
-    batches.push(questions.slice(i, i + BATCH_SIZE));
+  for (let i = 0; i < questionArray.length; i += BATCH_SIZE) {
+    batches.push(questionArray.slice(i, i + BATCH_SIZE));
   }
 
   for (let i = 0; i < batches.length; i++) {
